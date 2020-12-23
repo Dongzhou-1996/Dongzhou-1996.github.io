@@ -13,8 +13,8 @@ My research interests are computer vision, visual object tracking, object detect
 
 Education
 ------
-· 2018-Now    Doctor      Harbin Institute of Technology
-· 2014-2018   Bachelor    Harbin Engineering University
+  2018-Now    Doctor      Harbin Institute of Technology
+  2014-2018   Bachelor    Harbin Engineering University
 
 Contact
 ------
