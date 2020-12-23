@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I'm a fourth year Ph.D. student under the supervision of Prof. Alexander Hauptmann at Carnegie Mellon University.
-My research interests are large-scale computer vision and video analytics. 
+I'm a three year Ph.D. student under the supervision of Prof. Ligang Wu and Prof. Guanghui Sun at Harbin Institute of Technology.
+My research interests are computer vision, visual object tracking, object detection, artificial intelligence and pattern recognition. 
 
-For more info
+Education
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+· 2018-Now    Doctor      Harbin Institute of Technology
+· 2014-2018   Bachelor    Harbin Engineering University
+
+Contact
+------
+Welcome to communicate and cooperate!
